@@ -1,0 +1,13 @@
+Number of customers is: 8
+SLMS 1: 330      158.25   0.00    
+SLMS 3: 148      30.88    0.00    
+SLMS 5: 92       6.50     0.00    
+MLMS 1: 330      158.25   0.00    
+MLMS 3: 151      40.75    0.50    
+MLMS 5: 134      18.63    0.25    
+MLMSBLL 1: 330      158.25   0.00    
+MLMSBLL 3: 123      33.63    0.50    
+MLMSBLL 5: 134      18.63    0.25    
+MLMSBWT 1: 330      158.25   0.00    
+MLMSBWT 3: 148      30.88    0.00    
+MLMSBWT 5: 92       6.50     0.00    
